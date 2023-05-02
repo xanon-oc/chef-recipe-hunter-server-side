@@ -1,6 +1,7 @@
 [
   {
     "id": "1",
+    "chef_id": "sanjeev",
     "name": "Sanjeev Kapoor",
     "picture_link": "https://imgnew.outlookindia.com/public/uploads/articles/2020/10/10/sanjeev_kapoor-1.png",
     "years_of_experience": 30,
@@ -10,6 +11,7 @@
     "recipes": [
       {
         "id": "1",
+        "chef_id": "sanjeev",
         "recipe_name": "Butter Chicken",
         "recipe_pic": "https://masalaandchai.com/wp-content/uploads/2022/03/Butter-Chicken.jpg",
 
@@ -25,6 +27,7 @@
       },
       {
         "id": "2",
+        "chef_id": "sanjeev",
         "recipe_name": "Palak Paneer",
         "recipe_pic": "https://www.seriouseats.com/thmb/5mZwSRwo9Wff0om0ppnVtiD6ZNY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/20220629-PalakPaneer-Amanda-Suarez-hero-a2fdf0f3ff5141dfbf44d3977678c578.JPG",
         "ingredients": [
@@ -39,6 +42,7 @@
       },
       {
         "id": "3",
+        "chef_id": "sanjeev",
         "recipe_name": "Chana Masala",
         "recipe_pic": "https://minimalistbaker.com/wp-content/uploads/2016/02/AMAZING-Chana-Masala-made-in-1-Pot-So-healthy-flavorful-and-delicious-vegan-glutenfree-chanamasala-recipe-minimalistbaker.jpg",
         "ingredients": [
@@ -53,6 +57,7 @@
       },
       {
         "id": "4",
+        "chef_id": "sanjeev",
         "recipe_name": "Aloo Gobi",
         "recipe_pic": "https://simmertoslimmer.com/wp-content/uploads/2019/09/Instant-Pot-Aloo-Gobhi.jpg",
         "ingredients": ["potatoes", "cauliflower", "onion", "tomato", "cumin"],
@@ -63,7 +68,9 @@
   },
   {
     "id": "2",
+    "chef_id": "vikas",
     "name": "Vikas Khanna",
+
     "picture_link": "https://bookofachievers.com/images/bio_pics/1594663189200_Vikas+Khanna.png",
     "years_of_experience": 20,
     "number_of_recipes": 300,
@@ -72,6 +79,7 @@
     "recipes": [
       {
         "id": "1",
+        "chef_id": "vikas",
         "recipe_name": "Butter Chicken",
         "recipe_pic": "https://masalaandchai.com/wp-content/uploads/2022/03/Butter-Chicken.jpg",
 
@@ -87,6 +95,7 @@
       },
       {
         "id": "2",
+        "chef_id": "vikas",
         "recipe_name": "Palak Paneer",
         "recipe_pic": "https://www.seriouseats.com/thmb/5mZwSRwo9Wff0om0ppnVtiD6ZNY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/20220629-PalakPaneer-Amanda-Suarez-hero-a2fdf0f3ff5141dfbf44d3977678c578.JPG",
         "ingredients": [
@@ -101,6 +110,7 @@
       },
       {
         "id": "3",
+        "chef_id": "vikas",
         "recipe_name": "Chana Masala",
         "recipe_pic": "https://minimalistbaker.com/wp-content/uploads/2016/02/AMAZING-Chana-Masala-made-in-1-Pot-So-healthy-flavorful-and-delicious-vegan-glutenfree-chanamasala-recipe-minimalistbaker.jpg",
         "ingredients": [
@@ -115,6 +125,7 @@
       },
       {
         "id": "4",
+        "chef_id": "vikas",
         "recipe_name": "Aloo Gobi",
         "recipe_pic": "https://simmertoslimmer.com/wp-content/uploads/2019/09/Instant-Pot-Aloo-Gobhi.jpg",
         "ingredients": ["potatoes", "cauliflower", "onion", "tomato", "cumin"],
