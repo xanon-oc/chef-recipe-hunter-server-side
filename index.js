@@ -8,7 +8,7 @@ const data = require("./data/data.json");
 app.use(cors());
 
 app.get("/", (req, res) => {
-  res.send("Dish Dash is running");
+  res.send("Welcome to the indian Cuisine . The Dish Dash server is running");
 });
 
 app.get("/all", (req, res) => {
